@@ -149,6 +149,8 @@ class Email:
                 self.check_logs_file(file)
             except OSError:
                 print("Incorrect file path")
+            except IndexError:
+                print("Incorrect file format")
 
 
 # add arguments to the parser
