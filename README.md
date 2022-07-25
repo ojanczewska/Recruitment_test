@@ -1,7 +1,7 @@
 # Recruitment task 2022
-Hi! My name is Aleksnadra Janczewska and this is my solution to the recruitment task for the position of Intern Python Developer at Profil Software.
 
-# How to use my script
+
+## How to use my script
 To run my script type in the word python ( or python3) followed by the path to my script ( email_operations.py), 
 then depending on the operartions you want to performe add adequate command:
 
