@@ -1,5 +1,5 @@
 # Recruitment task 2022
-
+The task was to build a script / CLI that performs some operations on the email data. Script with my solution is named email_operations.py . Files with emails and logs of sent emails are also provided in this repositry.
 
 ## How to use my script
 To run my script type in the word python ( or python3) followed by the path to my script ( email_operations.py), 
